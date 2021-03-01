@@ -10,8 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@apollo/client": "^3.3.11",
+    "msw": "^0.27.0",
     "react": "16.13.1",
-    "react-native": "0.63.4"
+    "react-native": "0.63.4",
+    "react-native-url-polyfill": "^1.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
