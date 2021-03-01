@@ -12,6 +12,7 @@
   "dependencies": {
     "@apollo/client": "^3.3.11",
     "msw": "^0.27.0",
+    "node-fetch": "^2.6.1",
     "react": "16.13.1",
     "react-native": "0.63.4",
     "react-native-url-polyfill": "^1.2.0"
